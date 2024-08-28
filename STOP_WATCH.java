@@ -6,7 +6,7 @@ public class STOP_WATCH{
         Scanner scanner = new Scanner(System.in);
         int H = 0, M = 0, S = 0;
         boolean running = false;
-        System.out.println("(:ANKIT 1819 STOP WATCH:)");
+        System.out.println("(:DART GOVIND STOP WATCH:)");
         System.out.println("Type 'start' to begin the clock or 'reset' to reset it.");
 
         while (true) {
